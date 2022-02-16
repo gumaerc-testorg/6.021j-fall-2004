@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 18b8242e-6a69-a8fe-8104-4a564d2c2037
 ---
@@ -91,7 +93,7 @@ The report for the first project is written. It should be approximately 10 pages
 
 The reports for both projects have **firm due dates**, which are listed in the [calendar]({{< baseurl >}}/pages/calendar) section. **There is a severe lateness penalty:** the grade for a late report will be multiplied by a lateness factor
 
-_L_ = 0:3_e_ _\-t_/4 + 0.7_e_ _\-t_/72
+_L_ = 0:3_e_ {{< sup "_\\-t_/4" >}} + 0.7_e_ {{< sup "_\\-t_/72" >}}
 
 where _t_ is the number of hours late.
 
