@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 18b8242e-6a69-a8fe-8104-4a564d2c2037
 resourcetype: Image
 title: eqn1.jpg
 uid: ee1eb47d-160e-522e-8fe3-051b0c001c20

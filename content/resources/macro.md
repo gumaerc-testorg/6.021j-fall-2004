@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: 8d033ea2-80b5-83ab-6a92-0f16d036220c
 resourcetype: Document
 title: macro.pdf
 uid: 2dec3d0a-c557-365b-9b31-de361b77e3ad

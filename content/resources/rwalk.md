@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: 8d033ea2-80b5-83ab-6a92-0f16d036220c
 resourcetype: Document
 title: rwalk.pdf
 uid: 55802388-4c98-ea9c-7ec1-41d2f7d2946b

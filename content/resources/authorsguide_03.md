@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: b71c5203-694d-2da0-0b0e-0334146f7b1a
 resourcetype: Document
 title: authorsguide_03.pdf
 uid: ee7cf752-a699-ac8e-1418-67e3aad08874

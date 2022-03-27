@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: b71c5203-694d-2da0-0b0e-0334146f7b1a
 resourcetype: Document
 title: styleguide.pdf
 uid: ef046429-5ce5-fe05-1ec1-c66badcb2247

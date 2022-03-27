@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: b71c5203-694d-2da0-0b0e-0334146f7b1a
 resourcetype: Document
 title: errata2.pdf
 uid: bebe1bb7-f455-7ba6-753f-bef1a88e1d6f

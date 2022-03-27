@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: 8d033ea2-80b5-83ab-6a92-0f16d036220c
 resourcetype: Document
 title: misc.pdf
 uid: 1eb419a9-9c5d-7bdb-d201-c9b2fa04f56d

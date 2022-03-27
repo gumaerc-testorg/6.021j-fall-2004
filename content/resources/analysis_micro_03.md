@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 3164cd9e-2917-4ebf-967d-4b001fa64ce2
 resourcetype: Document
 title: analysis_micro_03.pdf
 uid: c4e637b3-5056-97f9-5c9d-c9fdb4d00753

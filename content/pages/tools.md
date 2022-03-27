@@ -11,6 +11,6 @@ Manual for MATLAB® 5 Version of Course Software ([PDF]({{< baseurl >}}/resource
 
 Manual for MATLAB® 4 Version of Course Software ([PDF]({{< baseurl >}}/resources/manual4))
 
-MATLAB® Demo Script 1 for PAP Model ([M](/courses/electrical-engineering-and-computer-science/6-021j-quantitative-physiology-cells-and-tissues-fall-2004/tools/APdemo1_03.m)) (Note: This version of the demo script is from the Fall 2003 term.)
+MATLAB® Demo Script 1 for PAP Model ([M]({{< baseurl >}}/resources/apdemo1_03)) (Note: This version of the demo script is from the Fall 2003 term.)
 
-MATLAB® Demo Script 2 for PAP Model ([M](/courses/electrical-engineering-and-computer-science/6-021j-quantitative-physiology-cells-and-tissues-fall-2004/tools/APscr_03.m)) (Note: This version of the demo script is from the Fall 2003 term.)
+MATLAB® Demo Script 2 for PAP Model ([M]({{< baseurl >}}/resources/apscr_03)) (Note: This version of the demo script is from the Fall 2003 term.)
