@@ -1,7 +1,15 @@
 ---
 content_type: page
+description: The calendar section contains table listing the lecture topics covered
+  in the course along with the assignment due dates.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 0c293eca-fd14-6f0f-b404-eeeb89743809
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 The calendar below provides information on course's lecture (L) and recitation (R) sessions.
