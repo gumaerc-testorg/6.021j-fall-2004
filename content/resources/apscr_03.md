@@ -5,6 +5,7 @@ file: /courses/6-021j-quantitative-physiology-cells-and-tissues-fall-2004/ed6826
 file_type: text/plain
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: APscr_03.m
 uid: ed6826ad-abdc-3267-9aef-96e85fcfdbf6
 ---
 This file is provided for MATLAB? demo script 2 for PAP model (M).
-

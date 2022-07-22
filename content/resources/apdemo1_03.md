@@ -6,6 +6,7 @@ file: /courses/6-021j-quantitative-physiology-cells-and-tissues-fall-2004/ad9794
 file_type: text/plain
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: APdemo1_03.m
 uid: ad9794b1-49b4-01e0-a6b3-c5e09cfab92f
 ---
 This file is for MATLAB? demo script 1 for PAP model (M)covering web sites with comprehensive list of file extensions.
-

@@ -5,6 +5,7 @@ file: /courses/6-021j-quantitative-physiology-cells-and-tissues-fall-2004/19081b
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This file covers exercises and problems along with reading and announcements.
-

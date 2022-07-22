@@ -4,6 +4,7 @@ description: This file covers instructions.
 file: /courses/6-021j-quantitative-physiology-cells-and-tissues-fall-2004/bebe1bb7f4557ba6753fbef1a88e1d6f_errata2.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This file covers instructions.
-
