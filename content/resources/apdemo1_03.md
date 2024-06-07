@@ -3,6 +3,7 @@ content_type: resource
 description: This file is for MATLAB? demo script 1 for PAP model (M)covering web
   sites with comprehensive list of file extensions.
 file: /courses/6-021j-quantitative-physiology-cells-and-tissues-fall-2004/ad9794b149b401e0a6b3c5e09cfab92f_APdemo1_03.m
+file_size: 3692
 file_type: text/plain
 learning_resource_types:
 - Tools
