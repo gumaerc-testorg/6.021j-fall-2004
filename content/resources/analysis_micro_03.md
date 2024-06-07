@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-021j-quantitative-physiology-cells-and-tissues-fall-2004/c4e637b3505697f95c9dc9fdb4d00753_analysis_micro_03.pdf
+file_size: 97628
 file_type: application/pdf
 learning_resource_types:
 - Projects
