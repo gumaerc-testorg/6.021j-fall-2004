@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-021j-quantitative-physiology-cells-and-tissues-fall-2004/ef0464295ce5fe051ec1c66badcb2247_styleguide.pdf
+file_size: 291689
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
