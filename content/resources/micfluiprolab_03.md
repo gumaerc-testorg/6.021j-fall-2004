@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/6-021j-quantitative-physiology-cells-and-tissues-fall-2004/f2563f7e51412b4aa5e5e69afce5111c_micfluiprolab_03.pdf
+file: /courses/6-021j-quantitative-physiology-cells-and-tissues-fall-2004/f2563f7e51412b4aa5e5e69afce5111c_micfluiprolab_03.pdf
 file_size: 401799
 file_type: application/pdf
 learning_resource_types:
