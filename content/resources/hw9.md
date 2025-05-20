@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file covers exercises and problems.
-file: /ol-ocw-studio-app/courses/6-021j-quantitative-physiology-cells-and-tissues-fall-2004/895736a7dd2a39dfbe7be8c0154afdc6_hw9.pdf
+file: /courses/6-021j-quantitative-physiology-cells-and-tissues-fall-2004/895736a7dd2a39dfbe7be8c0154afdc6_hw9.pdf
 file_size: 182888
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains practical considerations in the choice of a topic,
   choice of topics and examples of hypotheses.
-file: /ol-ocw-studio-app/courses/6-021j-quantitative-physiology-cells-and-tissues-fall-2004/ba544804eab386e987d1026e4e36ad93_hhprojects.pdf
+file: /courses/6-021j-quantitative-physiology-cells-and-tissues-fall-2004/ba544804eab386e987d1026e4e36ad93_hhprojects.pdf
 file_size: 74896
 file_type: application/pdf
 learning_resource_types:
