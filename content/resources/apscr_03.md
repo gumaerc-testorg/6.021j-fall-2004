@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file is provided for MATLAB? demo script 2 for PAP model (M).
-file: /courses/6-021j-quantitative-physiology-cells-and-tissues-fall-2004/ed6826adabdc32679aef96e85fcfdbf6_APscr_03.m
+file: /ol-ocw-studio-app/courses/6-021j-quantitative-physiology-cells-and-tissues-fall-2004/ed6826adabdc32679aef96e85fcfdbf6_APscr_03.m
 file_size: 10565
 file_type: text/plain
 learning_resource_types:
