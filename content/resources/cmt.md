@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/6-021j-quantitative-physiology-cells-and-tissues-fall-2004/554ecf92abc292dd702528953df7d286_cmt.pdf
+file: /ol-ocw-studio-app/courses/6-021j-quantitative-physiology-cells-and-tissues-fall-2004/554ecf92abc292dd702528953df7d286_cmt.pdf
 file_size: 242883
 file_type: application/pdf
 learning_resource_types:
