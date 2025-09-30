@@ -204,9 +204,9 @@ Texts
 
 The course text has two volumes:
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262231831) Weiss, Thomas F. [_Cellular Biophysics: Transport_](https://mitpress.mit.edu/9780262231831). Vol. 1. Cambridge, MA: MIT Press, 1996. ISBN: 9780262231831.
+{{% resource_link "02b8d5e9-3326-48be-948e-fa754c022ab1" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Weiss, Thomas F. {{% resource_link "02b8d5e9-3326-48be-948e-fa754c022ab1" "_Cellular Biophysics: Transport_" %}}. Vol. 1. Cambridge, MA: MIT Press, 1996. ISBN: 9780262231831.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262231848) ———. [_Cellular Biophysics: Electrical Properties_](https://mitpress.mit.edu/9780262231848). Vol. 2. Cambridge, MA: MIT Press, 1996. ISBN: 9780262231848.
+{{% resource_link "5d656cdf-f7b2-469a-8b1f-e779c3d50bc1" "![Buy at MIT Press](/images/mp_logo.gif)" %}} ———. {{% resource_link "5d656cdf-f7b2-469a-8b1f-e779c3d50bc1" "_Cellular Biophysics: Electrical Properties_" %}}. Vol. 2. Cambridge, MA: MIT Press, 1996. ISBN: 9780262231848.
 
 For the portion of the subject that deals with electrical properties of cells, supplementary reading is available in the following texts:
 
