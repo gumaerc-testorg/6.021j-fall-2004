@@ -19,6 +19,6 @@ Below are some study materials for this course:
 
 Tips for Writing a Successful Proposal for 6.021J ({{% resource_link 9a78b708-0c88-6883-399e-1747a598874e "PDF" %}}) (Courtesy of Mya Poe. Used with permission.) (Note: This version of successful proposal writing tips is from the Fall 2003 term.)
 
-{{% resource_link "02b8d5e9-3326-48be-948e-fa754c022ab1" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Weiss, Thomas F. {{% resource_link "02b8d5e9-3326-48be-948e-fa754c022ab1" "_Cellular Biophysics: Transport_" %}}. Vol. 1. Cambridge, MA: MIT Press, 1996. ISBN: 9780262231831. Errata ({{% resource_link 369dd273-d6d8-bd22-9255-56e4b7624686 "PDF" %}})
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262231831) Weiss, Thomas F. [_Cellular Biophysics: Transport_](https://mitpress.mit.edu/9780262231831). Vol. 1. Cambridge, MA: MIT Press, 1996. ISBN: 9780262231831. Errata ({{% resource_link 369dd273-d6d8-bd22-9255-56e4b7624686 "PDF" %}})
 
-{{% resource_link "5d656cdf-f7b2-469a-8b1f-e779c3d50bc1" "![Buy at MIT Press](/images/mp_logo.gif)" %}} ———. {{% resource_link "5d656cdf-f7b2-469a-8b1f-e779c3d50bc1" "_Cellular Biophysics: Electrical Properties_" %}}. Vol. 2. Cambridge, MA: MIT Press, 1996. ISBN: 9780262231848. Errata ({{% resource_link bebe1bb7-f455-7ba6-753f-bef1a88e1d6f "PDF" %}})
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262231848) ———. [_Cellular Biophysics: Electrical Properties_](https://mitpress.mit.edu/9780262231848). Vol. 2. Cambridge, MA: MIT Press, 1996. ISBN: 9780262231848. Errata ({{% resource_link bebe1bb7-f455-7ba6-753f-bef1a88e1d6f "PDF" %}})
